@@ -8,6 +8,8 @@ header{
     background-color: grey;
     padding: 20px;
     margin-top: 10px;
+    justify-content: space-between;
+
 
 }
 
@@ -17,8 +19,7 @@ header #logo{
 }
 
 header #redes{
-    display: block;
-    align-items: end;
-    line-height: 2px;
+    display: flex;
+
 
 }
