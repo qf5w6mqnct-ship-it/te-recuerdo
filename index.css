@@ -4,7 +4,7 @@
 }
 
 header{
-    height: 20vh;
+    height: 10vh;
     background-color: grey;
     padding: 20px;
     margin-top: 10px;
@@ -14,4 +14,11 @@ header{
 header #logo{
     display: block;
     text-align: center;
+}
+
+header #redes{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+
 }
