@@ -8,12 +8,16 @@ header{
     background-color: grey;
     display: flex;
     justify-content: center;
+    position: relative;
     
     
 }
 
 header #redes{
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
     display: flex;
-    align-items: flex-end;
+    
 
 }
