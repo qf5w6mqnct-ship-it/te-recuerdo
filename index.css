@@ -4,11 +4,16 @@
 }
 
 header{
+    height: 20vh;
     background-color: grey;
     padding: 20px;
     margin-top: 10px;
+
 }
 
 header .container{
+    height: 20vh;
     border: 1px solid black;
+    display: flex;
+    
 }
