@@ -7,10 +7,12 @@ header{
     height: 15vh;
     background-color: grey;
     display: flex;
+    text-align: center;
     
 }
 
 header #redes{
-    display: flex;
-    justify-content: end;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
 }
