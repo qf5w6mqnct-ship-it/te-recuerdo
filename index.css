@@ -6,20 +6,7 @@
 header{
     height: 10vh;
     background-color: grey;
-    padding: 20px;
-    margin-top: 10px;
-    justify-content: space-between;
-
-
-}
-
-header #logo{
-    display: block;
-    text-align: center;
-}
-
-header #redes{
     display: flex;
-
-
+    justify-content: center;
+    align-items: center;
 }
