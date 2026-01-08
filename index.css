@@ -18,6 +18,11 @@ header #redes{
     bottom: 5px;
     right: 10px;
     display: flex;
-    gap: 8px;
 
+}
+
+header button{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
 }
