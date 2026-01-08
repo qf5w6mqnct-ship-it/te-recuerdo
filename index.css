@@ -11,9 +11,7 @@ header{
 
 }
 
-header .container{
-    height: 10vh;
-    border: 1px solid black;
-    display: flex;
-    
+header #logo{
+    display: block;
+    text-align: center;
 }
