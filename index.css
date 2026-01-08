@@ -13,7 +13,7 @@ header{
 }
 
 header #redes{
-    
-    bottom: 5px;
-    right: 5px;
+    display: flex;
+    justify-content: end;
+
 }
